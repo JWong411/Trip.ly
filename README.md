@@ -1,24 +1,27 @@
-# README
+# Trip.ly 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Trip.ly is a web app that lets you organize and share your itineraries, packing lists and trip resources all in one place.  
 
-Things you may want to cover:
+This was a one week project rendered using (among others) Ruby on Rails, React.js, JQuery and Foundation for styling. 
 
-* Ruby version
+Group Members:
+* [Kimberly Suazo](http://github.com/kimberlysuazo)
+* [Angel Chen](http://github.com/angel-chen) 
+* [Jason Wong](http://github.com/JWong411) 
+* [Jenn Su](http://github.com/jennysoup)
 
-* System dependencies
+### We invite you to plan your next trip at [trip-ly.herokuapp.com](https://trip-ly.herokuapp.com/) 
 
-* Configuration
+Below are some screenshots to sample the Trip.ly UI: 
 
-* Database creation
+#### Homepage
+![Alt text](public/images/homepage.png?raw=true "Homepage")
 
-* Database initialization
+#### User Dashboard
+![Alt text](public/images/userdashboard.png?raw=true "User Dashboard")
 
-* How to run the test suite
+#### Trip Landing Page
+![Alt text](public/images/trippage.png?raw=true "Trip Landing Page")
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### Trip Itinerary
+![Alt text](public/images/itinerary.png?raw=true "Trip Itinerary")
