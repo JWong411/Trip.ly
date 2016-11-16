@@ -5,10 +5,10 @@ Trip.ly is a web app that lets you organize and share your itineraries, packing 
 This was a one week project rendered using (among others) Ruby on Rails, React.js, JQuery and Foundation for styling. 
 
 Group Members:
-* [Kimberly Suazo](http://github.com/kimberlysuazo)
 * [Angel Chen](http://github.com/angel-chen) 
 * [Jason Wong](http://github.com/JWong411) 
 * [Jenn Su](http://github.com/jennysoup)
+* [Kimberly Suazo](http://github.com/kimberlysuazo) - Project Lead 
 
 ### We invite you to plan your next trip at [trip-ly.herokuapp.com](https://trip-ly.herokuapp.com/) 
 
